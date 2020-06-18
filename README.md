@@ -1,0 +1,2 @@
+# Hierarchical_Kmeans_Clustering
+Hierarchical_Kmeans_Clustering_Problems 1)Perform clustering (Both hierarchical and K means clustering) for the airlines data to obtain optimum number of clusters.2)2)Perform Clustering for the crime data and identify the number of clusters formed and draw inferences.  Data Description: Murder -- Muder rates in different places of United States Assualt- Assualt rate in different places of United States UrbanPop - urban population in different places of United States Rape - Rape rate in different places of United States
